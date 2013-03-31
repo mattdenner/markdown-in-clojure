@@ -1,35 +1,11 @@
 # markdown-in-clojure
 
-FIXME: description
+There is absolutely no useful code here because I'm using this project as
+a learning experience for [Clojure](http://clojure.org/),
+[Leiningen](http://leiningen.org/) and [Midje](https://github.com/marick/Midje).
 
 ## Installation
 
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar markdown-in-clojure-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+1. Clone the repository;
+2. `lein midje`;
+3. Laugh at the implementation.
